@@ -31,7 +31,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-Finally, pip install the requirements using 
+Finally, install the requirements using 
 `pip install -r requirements.txt`
 
 Refer to the [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code?tabs=node-v4%2Cpython-v2%2Cisolated-process%2Cquick-create&pivots=programming-language-python) documentation for further setup instructions
