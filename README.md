@@ -26,7 +26,7 @@ Next, activate the venv
 ```bash
 venv\Scripts\activate
 ```
-🍏 MacOS or Linux:
+#### 🍏 MacOS or Linux:
 ```bash
 source venv/bin/activate
 ```
